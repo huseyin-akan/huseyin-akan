@@ -3,11 +3,10 @@
   <p><strong>Full-Stack Software Developer • .NET Ecosystem • Architecture-Oriented</strong></p>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huseyin-akan/huseyin-akan/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huseyin-akan/huseyin-akan/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huseyin-akan/huseyin-akan/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huseyin-akan/huseyin-akan/output/github-contribution-grid-snake-dark.svg?v=2025">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huseyin-akan/huseyin-akan/output/github-contribution-grid-snake.svg?v=2025">
+    <img alt="snake" src="https://raw.githubusercontent.com/huseyin-akan/huseyin-akan/output/github-contribution-grid-snake.svg?v=2025">
   </picture>
-
   <p>
     <img src="https://img.shields.io/github/followers/huseyin-akan?style=flat-square&logo=github&label=Followers&color=6272a4" alt="Followers">
     <img src="https://img.shields.io/badge/.NET-8%20%2F%209-512bd4?style=flat-square&logo=dotnet" alt=".NET Version">
