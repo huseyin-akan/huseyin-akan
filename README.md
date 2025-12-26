@@ -9,7 +9,7 @@
   </picture>
 
   <p>
-    <img src="https://img.shields.io/github/followers/huseyin-akan?style=flat-square&logo=github&label=Followers" alt="Followers">
+    <img src="https://img.shields.io/github/followers/huseyin-akan?style=flat-square&logo=github&label=Followers&color=6272a4" alt="Followers">
     <img src="https://img.shields.io/badge/.NET-8%20%2F%209-512bd4?style=flat-square&logo=dotnet" alt=".NET Version">
   </p>
 </div>
@@ -35,10 +35,10 @@ I’m a **full-stack software developer** focused on building **robust, maintain
 
 ---
 
-### 📊 GitHub Stats (Dracula Theme)
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huseyin-akan&show_icons=true&theme=dracula&hide_border=true" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyin-akan&layout=compact&theme=dracula&hide_border=true" height="150" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=huseyin-akan&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="Hüseyin's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyin-akan&layout=compact&theme=dracula&hide_border=false" height="180" alt="Hüseyin's Languages" />
 </p>
 
 ---
