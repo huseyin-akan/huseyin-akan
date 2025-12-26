@@ -2,7 +2,11 @@
   <h1>Hi 👋 I'm Hüseyin Akan</h1>
   <p><strong>Full-Stack Software Developer • .NET Ecosystem • Architecture-Oriented</strong></p>
   
-  <img src="https://github.com/huseyin-akan/huseyin-akan/blob/output/github-contribution-grid-snake.svg" alt="Snake Game Animation" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huseyin-akan/huseyin-akan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huseyin-akan/huseyin-akan/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huseyin-akan/huseyin-akan/output/github-contribution-grid-snake.svg">
+  </picture>
 
   <p>
     <img src="https://img.shields.io/github/followers/huseyin-akan?style=flat-square&logo=github&label=Followers" alt="Followers">
@@ -13,8 +17,7 @@
 ---
 
 ### 🧠 About Me
-
-I’m a **full-stack software developer** focused on building **robust, maintainable, and competitive systems**. I care deeply about clean boundaries, predictable behavior, and codebases that don’t rot over time.
+I’m a **full-stack software developer** focused on building **robust, maintainable, and competitive systems**.
 
 🚀 **Current Mission:** Building **[Challengle](https://github.com/huseyin-akan)** 🎮 — a competitive, fun-first challenge game designed for enjoyment and rivalry.
 
@@ -32,27 +35,17 @@ I’m a **full-stack software developer** focused on building **robust, maintain
 
 ---
 
-### 🧩 Engineering Mindset
-
-> *"Complexity is easy. Simplicity takes discipline."*
-
-* **Clarity over cleverness:** Code should be read like a story.
-* **Structure over shortcuts:** Debt is only taken if it can be repaid.
-* **DRY (Don't Repeat Yourself):** The first rule, always.
-
----
-
-### 📊 GitHub Stats
+### 📊 GitHub Stats (Dracula Theme)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huseyin-akan&show_icons=true&theme=transparent&hide_border=true" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyin-akan&layout=compact&theme=transparent&hide_border=true" height="150" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=huseyin-akan&show_icons=true&theme=dracula&hide_border=true" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyin-akan&layout=compact&theme=dracula&hide_border=true" height="150" alt="Languages" />
 </p>
 
 ---
 
 ### 📫 Connect with me
 <p align="left">
-  <a href="mailto:senin-email-adresin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:huseyinakan.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/huseyin-akan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
