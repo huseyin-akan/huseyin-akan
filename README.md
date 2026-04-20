@@ -29,7 +29,7 @@ I’m a **full-stack software developer** focused on building **robust, maintain
 | **Backend** | `C#` `.NET 8/9` `Web API` `EF Core` `Dapper` `JWT` |
 | **Frontend** | `Angular` `Razor` `Vanilla JS` `jQuery` `HTML/CSS` |
 | **Database** | `MSSQL` `Oracle` `Indexing & Optimization` |
-| **Mobile** | `.NET MAUI` (Android & iOS) |
+| **Mobile** | `.Flutter` (Android & iOS) |
 | **Concepts** | `Clean/Onion Architecture` `CQRS` `SOLID` `Event-Driven` |
 
 ---
